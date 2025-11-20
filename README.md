@@ -1,0 +1,20 @@
+AGRAPH - a Software for Drawing and Calculating Space Syntax "Node-Graphs" and Space Syntax "Axial-Maps". 
+
+AGRAPH is a PC-program initially developed by Paul Benze and Bendik Manum and later developed by Espen Rusten and Bendik Manum. For more information about the program see .pdf files in the download .zip-folder or download the following papers directly from WEB
+AGRAPH, Software for Drawing and Calculating Space Syntax Graphs, presented at the 5th Space Syntax Symposium, Delft, June 2005  
+or for the paper AGRAPH, Complementary Software for Axial-Line Analysis:
+paper no. 70 at http://www.sss7.org/Proceedings_09.html.
+The .zip-folder for download contains program-files of the .exe-format and a .xls-file listing the versions of the program. The .xls-file also suggests how to handle some "bugs". Papers presenting the software as well as a presentation showing the software in use are also added.
+Download and use is free under the following terms:
+•	There is NO guarantee against bugs or miscalculations and the authors have NO responsibility for ANY such or other problems or faults made by or caused by the program.
+•	There is no 'support'.
+
+•	ANY PUBLICATION (digital or in paper) which includes using AGRAPH shall have a complete reference to the authors and the web-site such as written below:
+'B. Manum, E. Rusten, P. Benze: AGRAPH, Software for Drawing and Calculating Space Syntax "Node-Graphs" and Space Syntax "Axial-Maps", http://www.ntnu.no/ab/spacesyntax/ date (date of download)'
+•	Use of AGRAPH (academic or commercial) being published without such reference is not permitted.
+•	New versions of the program might be made without further notice.
+•	For new versions the conditions for download and use might be changed without further notice.
+I accept the terms above and would like to download agraph.zip
+
+The .exe-files require the .NET Framework. If you have an older version of windows you may need to download update from http://windowsupdate.microsoft.com/
+Please report problems concerning the program to Bendik Manum. Questions can be mailed to the same address. Even if there is no guarantee of support, questions might be answered!
