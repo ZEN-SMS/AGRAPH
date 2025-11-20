@@ -18,3 +18,6 @@ I accept the terms above and would like to download agraph.zip
 
 The .exe-files require the .NET Framework. If you have an older version of windows you may need to download update from http://windowsupdate.microsoft.com/
 Please report problems concerning the program to Bendik Manum. Questions can be mailed to the same address. Even if there is no guarantee of support, questions might be answered!
+
+I accept the terms above and would like to download AGRAPH:
+https://github.com/ZEN-SMS/AGRAPH/archive/refs/tags/v3.0.zip
